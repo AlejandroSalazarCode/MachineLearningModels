@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+my_env/
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
